@@ -53,12 +53,14 @@
     <img src="https://komarev.com/ghpvc/?username=Erhai-lake&abbreviated=true&color=yellow" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake.svg">
-</picture>
-
+<!-- 提交贪吃蛇 -->
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake.svg">
+         <img src="https://raw.githubusercontent.com/Erhai-lake/Erhai-lake/output/github-contribution-grid-snake.svg">
+    </picture>
+</p>
 
 <!-- 底部动图 -->
 <!-- https://github.com/kyechan99/capsule-render -->
